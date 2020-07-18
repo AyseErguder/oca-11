@@ -1,4 +1,4 @@
-package chapter02._02_field;
+package chapter02._02.field;
 
 public class Swan {
 
